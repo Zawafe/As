@@ -109,7 +109,7 @@ const Last = () => {
                 </div>
             </div>
             <div id='h4'>
-                <img src={last} alt="" />
+                <img src={last} alt="" className='img6' />
                 
             </div>
         </last>

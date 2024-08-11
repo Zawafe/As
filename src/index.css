@@ -573,6 +573,9 @@ div a {
   100%{background-image: url(./assets/bg3.png); width: 100%;}
   
 }
+#img6{
+  width: 20%;
+}
 
 .tabs {
   display: flex;
