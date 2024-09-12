@@ -20,7 +20,7 @@ const Last = () => {
                 </div>
                 <div id='h2'>
                     <h1>
-                        Anker PowerCore 523 10K PD <br /> Powerbank
+                        Anker PowerCore 6310K PD <br /> Powerbank
                     </h1> <br /> <br />
                     <div id='d'>
                         <p>₱1,361.75</p> <br />

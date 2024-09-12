@@ -24,7 +24,7 @@ function Footer() {
 
                 <br /> <br />
                 <div className="a1">
-                    <div>DISCOVER <br />About Us <br />Retail Stores <br /> Contact Us</div> <br />
+                    <a href="£"><div>DISCOVER <br />About Us <br />Retail Stores <br /> Contact Us</div> <br /></a>
                     <div>PROGRAM<br />Blog<br />Corporate Program</div> <br />
                     <div>CONTACT US<br />Email: shopanker@gocommerce.asia</div> <br />
                     <div><h4>social</h4></div>
